@@ -64,20 +64,20 @@ a {
 }
 
 .img-wrapper {
-  margin: -70px;
+  margin: 0px -70px 20px -120px;
 }
 
 #nerd-guy {
   width: 380px;
-  margin-top: 80px;
+  margin-top: 0px;
   margin-left: 60px;
-  
+  height: auto;
 }
+
 #twitter__logo{
   width: 40px;
   margin-top: 1px;
   margin-left: 27em;
-
 }
 
 #get-started {
@@ -107,10 +107,4 @@ input[type="email"] {
 #email{
   text-align: center;
   font-family: 'Sora', sans-serif;
-}
-
-#error {
-  color: red;
-  display: block;
-  
 }
