@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600&family=Sora:wght@300;600;700;800&display=swap');
+*{
+  margin: 0px;
+  padding: 0%;
+}
+
+  header{
+      font-family: 'Sora', sans-serif;
+      color: black;
+      position: absolute;
+      text-align: justify;
+      font-weight: 800;
+      font-size: 48px;
+    margin-left: 22px;
+    margin-top: -4em;
+
+  }
+  
+  p{
+      font-weight: 500;
+  }
+  button{
+    background-color: rgb(60, 222, 130);
+    margin: 0px 0px 0px 10px;
+    font-family: 'Sora',sans-serif;
+    font-weight: 600;
+    color: black;
+    border: 1px solid rgb(60, 222, 130);
+    height: 40px;
+    width: 10rem;
+    padding: 5px;
+    border-radius: 8px;
+ 
+  }
+
+ 
+  
+  b{
+    color: limegreen;
+  }
+  
+  #inmid{
+      font-family: 'Sora', sans-serif;
+    height: 40px;
+    width: 260px;
+    color: black;
+    border: 1px solid black;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: 600;
+  }
+
+  #btnmid{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition: width 0.4s;
+    transition-timing-function: linear;
+
+  }
+  #btnmid:hover{
+    width: 150px;
+    
+  }
+  #tutor__nav{
+    text-decoration: none;
+    color: white;
+  
+  }
+  
+  #s-logo{
+    margin-top: -4em;
+    position: absolute;
+    margin-left: -40px;
+    height: 150px;
+    width: 0px;
+  }
+  
+  #nerdguy__img{
+    margin-left: 40em;
+    margin-bottom: -50vh ;
+  }
+  #pmiddle{
+      font-family: 'Sora', sans-serif;
+    text-align: justify;
+    position: absolute;
+    color: black;
+    margin-left: 40px;
+    margin-top: -1em;
+  }
+  
+  
+  #twitter__logo{
+    margin-left: 72em;
+    margin-top: 18em;
+  }
+  
+  
+  #line{
+      overflow: hidden;
+      position: absolute;
+      width: 360px;
+      margin-top: -16.5em;
+      margin-left: 4.4vw;
+      transform: rotate(190deg);
+
+  }
+  .nav-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(60, 222, 130);
+    border-bottom-left-radius: 17px;
+    border-bottom-right-radius: 17px ;
+    background-attachment: fixed;
+    height: 140px;
+    width: 100%;
+    margin-top: -20px;
+    box-shadow: 2px 12px 5px -2px rgba(207,198,198,0.73);
+  -webkit-box-shadow: 2px 12px 5px -2px rgba(207,198,198,0.73);
+  -moz-box-shadow: 2px 12px 5px -2px rgba(207,198,198,0.73);
+  }
+  .waitlist__main{
+    text-align: justify;
+    margin-top: 8.5em;
+    margin-right: 10em;
+  }
+  
+  
+  .navlist > .tutor {
+    font-size: small;
+    font-family: 'Sora', sans-serif;
+    list-style-type: none;
+    background-color: black;
+    border-radius: 8px;
+    margin: 30px;
+    padding: 10px;
+  }
+  .inputs__get{
+    position: absolute;
+    margin-top: 5em;
+    margin-left: 2vw;
+  }
+  
+  
+  
+  
